@@ -11,7 +11,8 @@ https://estudiosdeldesarrollo.mx/estudioscriticosdeldesarrollo/wp-content/upload
 
 Após a inserção das fontes, foram realizadas algumas perguntas. Logo abaixo estarão duas perguntas e as respostas que foram obtidas a partir dos prompts.
 
-quais eram as principais diferenças entre o desenvolvimento do Brasil e dos Estados Unidos, de acordo com Celso Furtado?
+Quais eram as principais diferenças entre o desenvolvimento do Brasil e dos Estados Unidos, de acordo com Celso Furtado?
+
 De acordo com a análise de Celso Furtado, as diferenças fundamentais entre o desenvolvimento do Brasil e dos Estados Unidos residem nas raízes de suas formações coloniais, nas estruturas de propriedade e no papel exercido pelo Estado e pelas classes dominantes.
 
 As principais distinções destacadas por Furtado são:
