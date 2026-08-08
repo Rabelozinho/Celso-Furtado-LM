@@ -1,9 +1,12 @@
 # Celso-Furtado-LM
 O tema da pesquisa foi "Quais foram as principais diferenças entre o desenvolvimento econômico entre o Brasil e os Estados Unidos?" Este tema foi escolhido para explicar as principais diferenças econômicas e sociais nos dias atuais, comparando o longo processo de desenvolvimento no qual o Brasil e os Estados Unidos passaram.
+
 Foram utilizadas as seguintes fontes para a pesquisa:
 
 Livro: Formação Econômica do Brasil - Celso Furtado (1959)
+
 https://www.youtube.com/watch?v=eEN_MQX9UwQ - Por que a soberania é essencial para o desenvolvimento do Brasil? | Celso Furtado
+
 https://estudiosdeldesarrollo.mx/estudioscriticosdeldesarrollo/wp-content/uploads/2019/01/ECD9-4.pdf - LA ECONOMÍA POLÍTICA EMPÍRICAMENTE FUNDAMENTADA E HISTÓRICAMENTE CONTEXTUALIZADA DE CELSO FURTADO
 
 Após a inserção das fontes, foram realizadas algumas perguntas. Logo abaixo estarão duas perguntas e as respostas que foram obtidas a partir dos prompts.
